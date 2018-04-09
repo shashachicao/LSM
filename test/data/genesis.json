@@ -1,0 +1,13 @@
+{
+"config": {
+"chainId": 349847306,
+"homesteadBlock": 0,
+"eip155Block": 0,
+"eip158Block": 0
+},
+"nonce": "0x52e32a8cacef2229",
+"difficulty": "0x10",
+"gasLimit": "0xffffff",
+"coinbase": "0x3333333477758362333333333333103342333333",
+"alloc": {}
+}
